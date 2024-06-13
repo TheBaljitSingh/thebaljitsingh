@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baljit</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<p>I’m a full-stack developer from India specializing in the MERN stack. I leverage MongoDB, Express.js, React, and Node.js to build robust, scalable, and dynamic web applications. My expertise spans both front-end and back-end development, allowing me to create seamless and efficient solutions that meet modern web standards.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thebaljitsingh&label=Profile%20views&color=0e75b6&style=flat" alt="thebaljitsingh" /> </p>
 

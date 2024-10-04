@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/thebaljitsingh" target="blank"><img src="https://img.shields.io/twitter/follow/thebaljitsingh?logo=twitter&style=for-the-badge" alt="thebaljitsingh" /></a> </p>
 
+- ✈️ Hire me for freelancing :)
+  
 - 🌱 I’m currently learning **Typescript, Cloud**
 
 - 👨‍💻 All of my projects are available at [https://thebaljitsingh.netlify.app/](https://thebaljitsingh.netlify.app/)

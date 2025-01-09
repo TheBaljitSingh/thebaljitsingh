@@ -7,7 +7,7 @@
 
 - ✈️ Hire me for freelancing :)
   
-- 🌱 I’m currently learning **Typescript, Cloud**
+- 🌱 I’m currently learning **Socket.Io**
 
 - 👨‍💻 All of my projects are available at [https://thebaljitsingh.netlify.app/](https://thebaljitsingh.netlify.app/)
 

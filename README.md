@@ -9,6 +9,8 @@
   
 - 🌱 I’m currently learning **Socket.Io**
 
+- 📄 My Resume: https://drive.google.com/file/d/1Twi1ONhbSnfu_5DUZM7PmKfufXPVQjIW/view?usp=sharing
+  
 - 👨‍💻 All of my projects are available at [https://thebaljitsingh.netlify.app/](https://thebaljitsingh.netlify.app/)
 
 - 📫 How to reach me **thebaljitsinghin@gmail.com**
